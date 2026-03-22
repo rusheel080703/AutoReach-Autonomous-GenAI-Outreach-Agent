@@ -1,0 +1,14 @@
+# Google OAuth Secrets
+credentials.json
+token.json
+
+# Python Environment
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
